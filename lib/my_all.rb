@@ -1,5 +1,4 @@
 require 'pry'
-
 def my_all?(array)
   i = 0
   new_array = []
@@ -9,5 +8,6 @@ def my_all?(array)
   end
   i += 1
 end
-end
+binding.pry
   !new_array.include?(false)
+end
