@@ -9,5 +9,5 @@ def my_all?(array)
   end
   i += 1
 end
-my_all?
-end
+
+  !new_array.;include?(false)
