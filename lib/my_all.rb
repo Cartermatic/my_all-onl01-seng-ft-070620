@@ -10,4 +10,4 @@ def my_all?(array)
   i += 1
 end
 
-  !new_array.;include?(false)
+  !new_array.include?(false)
